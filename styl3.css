@@ -1,0 +1,57 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#lewy {
+    background-color: #29434e;
+    color: white;
+    width: 70%;
+    height: 70px;
+    text-align: center;
+    float: left;
+}
+
+#prawy {
+    background-color: #29434e;
+    color: white;
+    height: 70px;
+    width: 30%;
+    clear: both;
+    float: left;
+}
+
+footer {
+    background-color: #29434e;
+    color: white;
+    clear: both;
+}
+
+#lista {
+    background-color: #b0bec5;
+    height: 320px;
+    overflow: scroll;
+}
+
+#filmy {
+    background-color: #b0bec5;
+    height: 320px;
+    overflow: scroll;
+}
+
+.blok {
+    padding: 5px;
+    width: 226px;
+    height: 280px;
+    float: left;
+}
+
+h3 {
+    background-color: #546e7a;
+    color: white;
+    margin: 0px;
+}
+
+h4 {
+    text-align: center;
+    margin: 0px;
+}
